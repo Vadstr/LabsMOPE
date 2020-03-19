@@ -1,0 +1,11 @@
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.deps.json
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.json
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.runtimeconfig.dev.json
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.dll
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/bin/Debug/netcoreapp3.1/Lab1.pdb
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csprojAssemblyReference.cache
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.csproj.CoreCompileInputs.cache
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfoInputs.cache
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.AssemblyInfo.cs
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.dll
+/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/Debug/netcoreapp3.1/Lab1.pdb
