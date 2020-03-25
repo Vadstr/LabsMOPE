@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/Lab1.csproj": {}
+    "/Users/vadim/Documents/labsAmo2/LabsMOPE/Lab2/Lab1/Lab1.csproj": {}
   },
   "projects": {
-    "/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/Lab1.csproj": {
+    "/Users/vadim/Documents/labsAmo2/LabsMOPE/Lab2/Lab1/Lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/Lab1.csproj",
+        "projectUniqueName": "/Users/vadim/Documents/labsAmo2/LabsMOPE/Lab2/Lab1/Lab1.csproj",
         "projectName": "Lab1",
-        "projectPath": "/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/Lab1.csproj",
+        "projectPath": "/Users/vadim/Documents/labsAmo2/LabsMOPE/Lab2/Lab1/Lab1.csproj",
         "packagesPath": "/Users/vadim/.nuget/packages/",
-        "outputPath": "/Users/vadim/Desktop/Учёба/мопе/Lab1/Lab1/obj/",
+        "outputPath": "/Users/vadim/Documents/labsAmo2/LabsMOPE/Lab2/Lab1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
